@@ -1,0 +1,25 @@
+CCKDHQ;Chi cục Kiểm định hải quan
+CKDHQ;Cục Kiểm định hải quan
+TCHQ;Tổng cục Hải quan
+CHQ;Cục Hải quan
+D1;Đội Kiểm định hải quan 1
+D2;Đội Kiểm định hải quan 2
+D3;Đội Kiểm định hải quan 3
+D4;Đội Kiểm định hải quan 4
+D5;Đội Kiểm định hải quan 5
+KD1;Chi cục Kiểm định hải quan 1
+KD1;Chi cục Kiểm định hải quan 2
+KD1;Chi cục Kiểm định hải quan 3
+KD1;Chi cục Kiểm định hải quan 4
+KD1;Chi cục Kiểm định hải quan 5
+KD1;Chi cục Kiểm định hải quan 6
+KD1;Chi cục Kiểm định hải quan khu vực Đông Nam Bộ
+KD1;Chi cục Kiểm định hải quan khu vực cảng Cái Mép - Thị Vải
+TBPL;Thông báo phân tích phân loại
+TBHH;Thông báo phân tích kèm mã số hàng hóa
+XDTMS;Thông báo xác định trước mã số
+CVHD;Công văn hướng dẫn
+CNHP;Trung tâm Phân tích phân loại - Chi nhánh Hải Phòng
+CNHCM;Trung tâm Phân tích phân loại - Chi nhánh Hồ Chí Minh
+CNDN;Trung tâm Phân tích phân loại - Chi nhánh Đà Nẵng
+TTPTPL;Trung tâm Phân tích phân loại
