@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/masohs/static/css/main.1e1f2ffe.css",
+    "main.js": "/masohs/static/js/main.c34bac93.js",
+    "static/js/453.4d722f7e.chunk.js": "/masohs/static/js/453.4d722f7e.chunk.js",
+    "index.html": "/masohs/index.html",
+    "main.1e1f2ffe.css.map": "/masohs/static/css/main.1e1f2ffe.css.map",
+    "main.c34bac93.js.map": "/masohs/static/js/main.c34bac93.js.map",
+    "453.4d722f7e.chunk.js.map": "/masohs/static/js/453.4d722f7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1f2ffe.css",
+    "static/js/main.c34bac93.js"
+  ]
+}
