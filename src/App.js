@@ -528,8 +528,8 @@ const AccountPopup = ({ onClose, currentUser, supabaseClient, onUpdateUser }) =>
 export default function App() { 
   // --- Quản lý trạng thái ---
   // Hardcode URL và khóa Anon của Supabase tại đây
-  const SUPABASE_URL = 'https://vanqlqcvtwtmwbopejcp.supabase.co'; // Thay thế bằng URL Supabase thực tế của bạn
-  const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZhbnFscWN2dHd0bXdib3BlamNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgxNTEwNTksImV4cCI6MjA2MzcyNzA1OX0.Gm7Um5dOGK-4Rhxlo8jbImsIH0B2f66i7bfzAm48nm4'; // THAY THẾ BẰNG KHÓA ANON THỰC TẾ TỪ DỰ ÁN SUPABASE CỦA BẠN!
+  const SUPABASE_URL = 'https://xxx.supabase.co'; // Thay thế bằng URL Supabase thực tế của bạn
+  const SUPABASE_ANON_KEY = 'xxx'; // THAY THẾ BẰNG KHÓA ANON THỰC TẾ TỪ DỰ ÁN SUPABASE CỦA BẠN!
 
   const [supabaseClient, setSupabaseClient] = useState(null);
   const [isScriptLoaded, setIsScriptLoaded] = useState(false);
